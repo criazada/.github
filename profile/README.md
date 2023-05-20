@@ -10,6 +10,9 @@
 
 ## GAC105 - Programação Paralela e Concorrente
 
+2022/1
+- [Algoritmo Genético](https://github.com/ThiagoSallesSantos/Trabalho-GAC105)
+
 2022/2
 - [K-means](https://github.com/jonathasluis/GAC105-Programacao_Paralela_e_Concorrente)
 
@@ -38,6 +41,7 @@
 ## GCC125 - Redes de Computadores
 
 2021/2
+- [Atividades e Relatórios - Grupo M](https://github.com/ThiagoSallesSantos/Trabalho_Pratico_Redes)
 - [Atividades e Relatórios - Grupo R](https://github.com/GabrielNathan12/Redes-de-Computadores-)
 
 2022/1
@@ -47,8 +51,17 @@
 
 ## GCC128 - Inteligência Artificial
 
+2022/1
+- [Algoritmo Genético - Thiago](https://github.com/ThiagoSallesSantos/GCC128-AlgoritmoGenetico)
+- [KNN - Thiago](https://github.com/ThiagoSallesSantos/Trabalho_KNN_GCC128)
+
 2022/2
 - [Atividades - Iago](https://github.com/iagocq/gcc128-ia)
+
+## GCC129 - Sistemas Distribuídos
+
+2022/1
+- [TP1 - Arthur e Thiago](https://github.com/ThiagoSallesSantos/Chat_Sockets_Trabalho)
 
 ## GCC130 - Compiladores
 
