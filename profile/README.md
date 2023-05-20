@@ -8,6 +8,11 @@
 - [Atividades - Jonathas](https://github.com/jonathasluis/GAC104-Computacao-Grafica)
 - [Atividades - Taiane](https://github.com/taianers/computacao-grafica)
 
+## GAC105 - Programação Paralela e Concorrente
+
+2022/2
+- [K-means](https://github.com/jonathasluis/GAC105-Programacao_Paralela_e_Concorrente)
+
 ## GAC106 - Práticas de Programação Orientada a Objetos
 
 2021/2
