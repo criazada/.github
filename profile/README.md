@@ -45,6 +45,11 @@
 - [Atividades e Relatórios - Grupo C](https://github.com/criazada/gcc125-grupoc)
 - [Dumps dos sites](https://github.com/criazada/gcc125-dumps)
 
+## GCC128 - Inteligência Artificial
+
+2022/2
+- [Atividades - Iago](https://github.com/iagocq/gcc128-ia)
+
 ## GCC130 - Compiladores
 
 2022/1
