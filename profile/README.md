@@ -24,6 +24,12 @@
 2020/2
 - [Compilador de Assembly](https://github.com/criazada/gcc113-circuitos-digitais)
 
+## GCC123 - Arquitetura de Computadores II
+
+2021/2
+- [TP1 e TP2 - Grupo 1](https://github.com/criazada/gcc123-arq-ii)
+- [TP2 / determinante - Maria Rita](https://github.com/mariaseverino/determinante-com-avx)
+
 ## GCC125 - Redes de Computadores
 
 2021/2
