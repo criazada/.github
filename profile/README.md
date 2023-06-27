@@ -1,5 +1,7 @@
 # Coletânea de Projetos e Trabalhos
 
+Sabe de algum repositório que não está aqui mas que deveria estar? Avise pelo email logo acima na página. Em pouco tempo vejo o email e adiciono aqui.
+
 ## GAC104 - Computação Gráfica
 
 2022/1
